@@ -1,4 +1,4 @@
 # DSA_CPP
-DSA Codes and Practice Questions
+<b>DSA Codes and Practice Questions<b>
 <br>
 Author - <b>Ayush Misra<b>
